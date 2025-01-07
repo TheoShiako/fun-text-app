@@ -8,10 +8,11 @@ Fun Text provieds a user-friendly interface for getting translations from FunTra
 * HttpClient
 
 ## Using The App
-1. Download the executable file fron the release section.
-2. When the application launches, it should like this:
+1. Download the zip file from the release section.
+2. Extract the files and run the 'Fun Text.exe' file.
+3. When the application launches, it should like this:
 ![Fun Text App ready to run](Images/screenshot1.png "Ready to Run")
-3. Type in the text you want to translate and and Hit Search:
+4. Type in the text you want to translate and and Hit Search:
 ![Fun Text App results](Images/screenshot2.png "Run Results")
 
 ## Upcoming Changes
